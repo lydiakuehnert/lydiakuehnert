@@ -5,18 +5,23 @@ My journey into the world of technology began through a deep-seated love for pro
 
 Some of my hobbies are hiking, backpacking, working with electricity, dabbling in construction, playing with dogs, swimming, working out, playing guitar, reading, kayaking, and basically anything outside!
 
+
 ### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=GitHub+Stats)](https://git.io/typing-svg)
 [![Lydia's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lydiakuehnert&&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+
 ### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Some+of+My+Skills...)](https://git.io/typing-svg)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Favorite+Quote)](https://git.io/typing-svg)
+"I slept and dreamt that life was joy. I awoke and saw that life was service. I acted and behold, service was joy." -Tagore
+
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Contact+Me!)](https://git.io/typing-svg)
 Email: lydiakuehnert@gmail.com |
 Portfolio: https://lydiakuehnert.github.io/
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Favorite+Quote)](https://git.io/typing-svg)
-"I slept and dreamt that life was joy. I awoke and saw that life was service. I acted and behold, service was joy." -Tagore
 
 <!--
 **lydiakuehnert/lydiakuehnert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
