@@ -15,6 +15,9 @@ Some of my hobbies are hiking, backpacking, working with electricity, dabbling i
 Email: lydiakuehnert@gmail.com |
 Portfolio: https://lydiakuehnert.github.io/
 
+### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Favorite+Quote)](https://git.io/typing-svg)
+"I slept and dreamt that life was joy. I awoke and saw that life was service. I acted and behold, service was joy." -Tagore
+
 <!--
 **lydiakuehnert/lydiakuehnert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
